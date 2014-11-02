@@ -1,11 +1,11 @@
 # keep only the elements that start with an a
 def select_elements_starting_with_a(array)
-	array.select {|element| element.chr == "a"}
+	array.select {|element| element.downcase.chr == "a"}
 end
 
 # keep only the elements that start with a vowel
 def select_elements_starting_with_vowel(array)
-	array.select {|element| element.chr =~ /[aeiou]/}
+	array.select {|element| element.downcase.chr =~ /[aeiou]/}
 end
 
 # remove instances of nil (but NOT false) from an array

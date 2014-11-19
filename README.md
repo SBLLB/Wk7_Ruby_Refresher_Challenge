@@ -1,6 +1,6 @@
 ## Ruby Refresher
 
-#### A series of rspec tests to pass. This challenge was set on week 7 at Makers Academy. We had spent the previous two weeks on Javascript and this refresher challenge was therefore set before we revisited Ruby. 
+#### A series of rspec tests to pass. This challenge was set on week 7 at Makers Academy. We had spent the previous two weeks on Javascript so this refresher challenge was set before we revisited Ruby. 
 
 - [x] Questions 1-10 complete
 - [x] Questions 11-20 complete
